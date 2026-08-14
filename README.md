@@ -57,6 +57,7 @@
 | Project                                                                 | Version                                                                                               | Author  |
 |-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------|
 | [SX-Attribute](https://github.com/Saukiya/SX-Attribute/releases/latest) | ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/Saukiya/SX-Attribute?label=latest) | Saukiya |
+| [SX-Item-Action](https://github.com/FxRayHughes/SX-Item-Action/releases/latest) | ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/FxRayHughes/SX-Item-Action?label=latest) | 枫溪 |
 
 ## Material Compatibility
 
